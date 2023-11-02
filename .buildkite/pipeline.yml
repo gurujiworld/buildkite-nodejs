@@ -1,3 +1,3 @@
 steps:
-  - name: ":node:"
+  - label: ":node:"
     command: "npm install"
