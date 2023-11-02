@@ -1,4 +1,4 @@
 steps:
-  - label: "echo"
-    command: "echo helloworld"
+  - name: ":node:"
+    command: "npm install && npm test"
     
